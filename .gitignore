@@ -1,0 +1,8 @@
+#不管理MAC专有隐藏文件
+.DS_Store
+
+#不管理firmware中间文件
+
+
+#不管理hardware中间文件
+hardware/esp32_pico/History
