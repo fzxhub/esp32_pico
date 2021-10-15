@@ -2,7 +2,8 @@
 .DS_Store
 
 #不管理firmware中间文件
-
+firmware/esp32_pico_test/.pio
+firmware/esp32_pico_test/.vscode
 
 #不管理hardware中间文件
 hardware/esp32_pico/History
